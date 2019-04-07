@@ -1,0 +1,14 @@
+<resources>
+    <!-- The title of the application. -->
+    <string name="app_name">My Music Player</string>
+    <!-- The default text for the Song's Title. -->
+    <string name="song_title">Fly me to the moon</string>
+    <!-- The default text for the Song's Artist. -->
+    <string name="artist">Frank Sinatra</string>
+    <!-- The default text for the Play Button. -->
+    <string name="play_button">Play</string>
+    <!-- The default text for the Pause Button. -->
+    <string name="pause_button">Pause</string>
+    <!-- The default text for the Stop Button. -->
+    <string name="stop_button">Stop</string>
+</resources>
